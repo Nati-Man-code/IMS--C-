@@ -1,0 +1,16 @@
+C:\Users\getah\source\repos\IMS\IMS\bin\Debug\IMS.exe.config
+C:\Users\getah\source\repos\IMS\IMS\bin\Debug\IMS.exe
+C:\Users\getah\source\repos\IMS\IMS\bin\Debug\IMS.pdb
+C:\Users\getah\source\repos\IMS\IMS\obj\Debug\IMS.csproj.AssemblyReference.cache
+C:\Users\getah\source\repos\IMS\IMS\obj\Debug\IMS.LoginForm.resources
+C:\Users\getah\source\repos\IMS\IMS\obj\Debug\IMS.Properties.Resources.resources
+C:\Users\getah\source\repos\IMS\IMS\obj\Debug\IMS.csproj.GenerateResource.cache
+C:\Users\getah\source\repos\IMS\IMS\obj\Debug\IMS.csproj.CoreCompileInputs.cache
+C:\Users\getah\source\repos\IMS\IMS\obj\Debug\IMS.exe
+C:\Users\getah\source\repos\IMS\IMS\obj\Debug\IMS.pdb
+C:\Users\getah\source\repos\IMS\IMS\obj\Debug\IMS.EmployeeForm.resources
+C:\Users\getah\source\repos\IMS\IMS\obj\Debug\IMS.ProductForm.resources
+C:\Users\getah\source\repos\IMS\IMS\obj\Debug\IMS.OrderForm.resources
+C:\Users\getah\source\repos\IMS\IMS\obj\Debug\IMS.SupplierForm.resources
+C:\Users\getah\source\repos\IMS\IMS\obj\Debug\IMS.DashboardForm.resources
+C:\Users\getah\source\repos\IMS\IMS\obj\Debug\IMS.CustomersForm.resources
